@@ -1,0 +1,39 @@
+金二B 42號 陳宣蓉 11107242
+請在github.com註冊後建立自己的遠端儲存端後拍照上傳
+金二B 17號 陳佩汶  11107217
+請參與一些專案然後修改自己的github profile拍照上傳
+金二B 40號 高紫瑄 11107240
+進行github多人合作，將自己的同組同學在一起後拍照上傳
+
+先在github註冊免費帳號 註冊後輔助工具選擇Collaborative coding和Team Administration
+
+問題1: 參考https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/24.md 開源github教學
+	進入個人檔案的Repositories 頁籤
+	按下NEW按鈕
+	輸入Repositories 名稱 並先設定為Public 並滑到最底建立
+	建立後往下滑動找到Quick setup 可以先記下你儲存端的網址或建立桌面版
+	點選藍色的 creating a new file
+	這邊是個空白檔案你可以存入任何你未來想著手的專案，文件，程式檔案
+	先給予名稱 和任何文字內容 之後按下右上角commit changes
+	儲存後你就可以看到 你的 遠端儲存端已經建立並且有了一個檔案在裡面 最終畫面應該長(副1)(參考副2)
+
+問題2:參考https://git-scm.com/book/zh-tw/v2/GitHub-%E5%8F%83%E8%88%87%E4%B8%80%E5%80%8B%E5%B0%88%E6%A1%88
+	進入網頁中的此連結https://github.com/schacon/blink 
+	能找到一個開源且公開允許Fork的github儲存端
+	點選右上角fork 將複製此儲存端到自己的本機	
+	你可以繼續沿用原本的名稱或更改來避免混亂
+	直接拉到下方create Fork(創建fork後可以使用pull request和其他功能讓你改善Fork的專案內容)	
+	這樣搭配問題1的步驟就可以達成問題2的要求(一些專案
+	你可以在github 左上角點開自己的個人profile，右上角有customize your pins 你可以客製化你的profile應該要展現那些東西 
+	PIN上前面FORK到的blink專案 就可以達到該問題的拍照需求(見副3)(參考副4)
+問題3:參考https://docs.github.com/zh/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
+	由一位小組成員開始，進入到你一開始創建的儲存區
+	畫面中間偏上點選setting
+	點選左邊的collaborators
+	下面有個manage acces 從那邊你可以新增其他使用者和你合作開發
+	收到邀請的組員可以接受並和你的儲藏端有共同的權限
+	每個人進行一次檔案編輯或各創建不同的檔案在同個儲存端應該就可以拍照上傳了
+	這邊礙於我是示範帳號所以沒有和他人合作，但最終畫面依該問題1一樣 只是多了更多檔案
+	
+	
+	
